@@ -1,4 +1,7 @@
-﻿using System;
+﻿using FluentValidation;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Langlab.Core.CORS
 {
@@ -7,12 +10,15 @@ namespace Langlab.Core.CORS
         string Id { get; }
         DateTime CreatedDate { get; }
         string CreatedBy { get; }
+        IEnumerable<string> StateErrors();
+        bool IsStateValid { get; }
     }
 
     public interface ICommand : IUserDemand { }
 
     public abstract class Command: ICommand
     {
+        readonly CommandValidator _validator = new CommandValidator();
         public string Id { get; }
         public DateTime CreatedDate { get; }
         public string CreatedBy { get; }
@@ -25,6 +31,17 @@ namespace Langlab.Core.CORS
             Id = commanId;
             CreatedDate = createdDate;
             CreatedBy = createdBy;
+        }
+        public IEnumerable<string> StateErrors()=> _validator.Validate(this).Errors.Select(e => e.ErrorMessage);
+        public bool IsStateValid =>  !StateErrors().Any();
+    }
+
+    public class CommandValidator: AbstractValidator<Command>
+    {
+        public CommandValidator()
+        {
+            RuleFor(customer => customer.Id).NotEmpty();
+            RuleFor(customer => customer.CreatedBy).NotEmpty();
         }
     }
 }

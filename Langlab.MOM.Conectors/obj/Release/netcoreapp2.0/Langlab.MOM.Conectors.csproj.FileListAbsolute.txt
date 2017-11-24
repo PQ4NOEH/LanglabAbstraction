@@ -1,0 +1,13 @@
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.MOM.Conectors.deps.json
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.MOM.Conectors.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.MOM.Conectors.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.MOM.Events.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\bin\Release\netcoreapp2.0\Langlab.MOM.Events.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Conectors\obj\Release\netcoreapp2.0\Langlab.MOM.Conectors.pdb

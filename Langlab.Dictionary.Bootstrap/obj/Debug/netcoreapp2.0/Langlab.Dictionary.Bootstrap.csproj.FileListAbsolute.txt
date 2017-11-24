@@ -1,0 +1,4 @@
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Bootstrap\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Bootstrap.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Bootstrap\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Bootstrap.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Bootstrap\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Bootstrap.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Bootstrap\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Bootstrap.AssemblyInfo.cs

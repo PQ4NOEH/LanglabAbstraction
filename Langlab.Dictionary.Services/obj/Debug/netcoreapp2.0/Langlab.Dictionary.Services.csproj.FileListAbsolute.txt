@@ -1,0 +1,15 @@
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Dictionary.Services.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Dictionary.Services.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Dictionary.Services.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Dictionary.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.MOM.Events.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.Dictionary.Contracts.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\bin\Debug\netcoreapp2.0\Langlab.MOM.Events.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Services\obj\Debug\netcoreapp2.0\Langlab.Dictionary.Services.pdb

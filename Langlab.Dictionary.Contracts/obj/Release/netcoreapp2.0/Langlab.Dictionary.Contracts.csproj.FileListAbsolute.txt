@@ -1,0 +1,10 @@
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\bin\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\bin\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\bin\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\obj\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\obj\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\obj\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\obj\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Contracts\obj\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.pdb

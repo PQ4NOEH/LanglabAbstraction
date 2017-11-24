@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "c444da3e036601c75be1ec7f4d472d1958012bb3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Langlab.MOM.Conectors/1.0.0": {
+        "dependencies": {
+          "Langlab.Core": "1.0.0",
+          "Langlab.MOM.Events": "1.0.0",
+          "WindowsAzure.ServiceBus": "4.1.6"
+        },
+        "runtime": {
+          "Langlab.MOM.Conectors.dll": {}
+        }
+      },
+      "FluentValidation/7.2.1": {
+        "runtime": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        }
+      },
+      "WindowsAzure.ServiceBus/4.1.6": {
+        "runtime": {
+          "lib/net45/Microsoft.ServiceBus.dll": {}
+        }
+      },
+      "Langlab.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "7.2.1"
+        },
+        "runtime": {
+          "Langlab.Core.dll": {}
+        }
+      },
+      "Langlab.MOM.Events/1.0.0": {
+        "dependencies": {
+          "Langlab.Core": "1.0.0"
+        },
+        "runtime": {
+          "Langlab.MOM.Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Langlab.MOM.Conectors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/7.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cQza24pZdc1aPziHNPOazZzg2/5l8S1zbnIpjKMBq8kopRAGj+YXqGyP8Xo4OIqV16SccmzU1hhKV3Q7FyXglg==",
+      "path": "fluentvalidation/7.2.1",
+      "hashPath": "fluentvalidation.7.2.1.nupkg.sha512"
+    },
+    "WindowsAzure.ServiceBus/4.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-80wU+WRickWmrUvJv2vSRCxZWAQECHZtRUWcbQZ01pKzsgWHqT30PgD+Ccln5xWzFrUQ+sZiBphskLJFpD6c5w==",
+      "path": "windowsazure.servicebus/4.1.6",
+      "hashPath": "windowsazure.servicebus.4.1.6.nupkg.sha512"
+    },
+    "Langlab.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Langlab.MOM.Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

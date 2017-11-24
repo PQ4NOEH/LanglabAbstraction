@@ -1,0 +1,13 @@
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Dictionary.Store.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Dictionary.Store.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Dictionary.Store.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\bin\Release\netcoreapp2.0\Langlab.Dictionary.Contracts.pdb
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.dll
+C:\projects\git\langLabAbstraction\Langlab.Dictionary.Store\obj\Release\netcoreapp2.0\Langlab.Dictionary.Store.pdb

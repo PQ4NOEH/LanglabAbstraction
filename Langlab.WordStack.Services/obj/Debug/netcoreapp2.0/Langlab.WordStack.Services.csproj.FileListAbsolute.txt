@@ -1,0 +1,13 @@
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.WordStack.Services.deps.json
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.WordStack.Services.dll
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.WordStack.Services.pdb
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.WordStacks.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.WordStacks.Contracts.pdb
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\bin\Debug\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.dll
+C:\projects\git\langLabAbstraction\Langlab.WordStack.Services\obj\Debug\netcoreapp2.0\Langlab.WordStack.Services.pdb

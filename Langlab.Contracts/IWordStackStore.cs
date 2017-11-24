@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Langlab.Core.Business;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Langlab.WordStacks.Contracts

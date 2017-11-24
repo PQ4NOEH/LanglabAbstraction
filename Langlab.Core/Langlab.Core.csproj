@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Facet\" />
-    <Folder Include="Mutation\" />
+    <PackageReference Include="FluentValidation" Version="7.2.1" />
   </ItemGroup>
 
 </Project>

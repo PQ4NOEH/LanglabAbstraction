@@ -1,0 +1,11 @@
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\bin\Debug\netcoreapp2.0\Langlab.MOM.Events.deps.json
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\bin\Debug\netcoreapp2.0\Langlab.MOM.Events.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\bin\Debug\netcoreapp2.0\Langlab.MOM.Events.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\bin\Debug\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\bin\Debug\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.dll
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.pdb
+C:\projects\git\langLabAbstraction\Langlab.MOM.Events\obj\Debug\netcoreapp2.0\Langlab.MOM.Events.csprojResolveAssemblyReference.cache

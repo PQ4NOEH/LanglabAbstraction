@@ -1,0 +1,11 @@
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\bin\Release\netcoreapp2.0\Langlab.Core.MessageRouter.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\bin\Release\netcoreapp2.0\Langlab.Core.MessageRouter.dll
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\bin\Release\netcoreapp2.0\Langlab.Core.MessageRouter.pdb
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.dll
+C:\projects\git\langLabAbstraction\Langlab.Core.MessageRouter\obj\Release\netcoreapp2.0\Langlab.Core.MessageRouter.pdb

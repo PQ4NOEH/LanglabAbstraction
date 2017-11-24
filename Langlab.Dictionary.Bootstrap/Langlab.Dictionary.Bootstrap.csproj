@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Langlab.Core.MessageRouter\Langlab.Core.MessageRouter.csproj" />
+    <ProjectReference Include="..\Langlab.Core\Langlab.Core.csproj" />
+    <ProjectReference Include="..\Langlab.Dictionary.Contracts\Langlab.Dictionary.Contracts.csproj" />
+    <ProjectReference Include="..\Langlab.Dictionary.Services\Langlab.Dictionary.Services.csproj" />
+    <ProjectReference Include="..\Langlab.Dictionary.Store\Langlab.Dictionary.Store.csproj" />
+    <ProjectReference Include="..\Langlab.MOM.Conectors\Langlab.MOM.Conectors.csproj" />
+    <ProjectReference Include="..\Langlab.MOM.Events\Langlab.MOM.Events.csproj" />
+  </ItemGroup>
+
+</Project>

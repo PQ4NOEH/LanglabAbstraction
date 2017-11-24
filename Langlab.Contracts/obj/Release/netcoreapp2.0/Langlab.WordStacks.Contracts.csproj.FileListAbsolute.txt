@@ -1,0 +1,11 @@
+C:\projects\git\langLabAbstraction\Langlab.Contracts\bin\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Contracts\bin\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Contracts\bin\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.pdb
+C:\projects\git\langLabAbstraction\Langlab.Contracts\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Contracts\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.dll
+C:\projects\git\langLabAbstraction\Langlab.Contracts\obj\Release\netcoreapp2.0\Langlab.WordStacks.Contracts.pdb

@@ -1,0 +1,9 @@
+C:\projects\git\langLabAbstraction\Langlab.Core\bin\Release\netcoreapp2.0\Langlab.Core.deps.json
+C:\projects\git\langLabAbstraction\Langlab.Core\bin\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Core\bin\Release\netcoreapp2.0\Langlab.Core.pdb
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.csprojResolveAssemblyReference.cache
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.csproj.CoreCompileInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.AssemblyInfoInputs.cache
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.AssemblyInfo.cs
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.dll
+C:\projects\git\langLabAbstraction\Langlab.Core\obj\Release\netcoreapp2.0\Langlab.Core.pdb
